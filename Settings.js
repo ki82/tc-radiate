@@ -1,6 +1,6 @@
 ﻿var organizationSettings = {
     //The url that points to team city
-    teamCityUrl: 'http://http://teamcity.xmreality.se:8080/',
+    teamCityUrl: 'http://teamcity.xmreality.se:8080/',
 
     //Only show builds for branches that satisfy the predicate
     branchFilter: function(branch) {
