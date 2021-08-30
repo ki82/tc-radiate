@@ -1,6 +1,6 @@
 ﻿var organizationSettings = {
     //The url that points to team city
-    teamCityUrl: 'https://todo.edit.this.url.invalid',
+    teamCityUrl: 'http://http://teamcity.xmreality.se:8080/',
 
     //Only show builds for branches that satisfy the predicate
     branchFilter: function(branch) {
